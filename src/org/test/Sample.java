@@ -9,9 +9,16 @@ public class Sample {
 		
 		System.out.println("Python");
 		
-		System.out.println("Selenium");
+		
+        System.out.println("Selenium");
 		
 		System.out.println("123");
+		
+		System.out.println(367);
+		
+		System.out.println("sql");
+		
+		
 		
 	}
 	
