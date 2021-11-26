@@ -9,6 +9,11 @@ public class Sample {
 		
 		System.out.println("Python");
 		
+		System.out.println(367);
+		
+		System.out.println("sql");
+		
+		
 	}
 	
 }
